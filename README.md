@@ -80,7 +80,7 @@ diamond-price-calculator/
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/your-username/diamond-price-calculator.git
+git clone [https://github.com/your-username/diamond-price-calculator.git](https://github.com/harshmistry7/diamond-price-calculator.git)
 cd diamond-price-calculator
 ```
 
