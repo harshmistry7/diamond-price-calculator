@@ -80,7 +80,7 @@ diamond-price-calculator/
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone [https://github.com/your-username/diamond-price-calculator.git](https://github.com/harshmistry7/diamond-price-calculator.git)
+git clone https://github.com/harshmistry7/diamond-price-calculator.git
 cd diamond-price-calculator
 ```
 
@@ -137,22 +137,11 @@ Frontend runs on → `http://localhost:5173`
 
 ## 📸 Screenshots
 
-👉 Create a folder `screenshots/` in your repo and place images, then update links here:
-
 - Calculator Page  
   ![Calculator Screenshot](./screenshots/calculator.png)
 
 - History Page  
   ![History Screenshot](./screenshots/history.png)
-
----
-
-## 💡 Future Improvements
-- Authentication & User login
-- Export history as CSV/PDF
-- Advanced filtering (by date, shape, clarity)
-- Role-based access (admin/users)
-- Docker deployment
 
 ---
 
